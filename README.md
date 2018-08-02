@@ -21,7 +21,7 @@ matthieu@gmail.com
 4) Mets le mot de passe suivant 
 
 ```
-poulet. 
+poulet 
 ```
 (sorry les vegans)
 
