@@ -1,24 +1,42 @@
-# README
+# > L'appli "World's Secret Biche"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Wesh, la moitié des BoyzIICode (@Dimitri Kiavu & @Pierre Tâm-Anh) est de retour, pour vous partager beaucoup d'amour. 
 
-Things you may want to cover:
 
-* Ruby version
+## Les Instructions en 2-2
 
-* System dependencies
+1) Clique par ici khey >> https://jemepresentebiche.herokuapp.com/
+2) Clique sur sur l'onglet "Log in" en haut à droite. 
+3) Dans la case email, tu peux mettre au choix l'une de ces adresses emails suivants
 
-* Configuration
 
-* Database creation
+```
+paul@gmail.com
+marc@gmail.com
+kwevan@gmail.com
+marc@gmail.com
+matthieu@gmail.com
+``` 
 
-* Database initialization
+4) Mets le mot de passe suivant 
 
-* How to run the test suite
+```
+poulet. 
+```
+(sorry les vegans)
 
-* Services (job queues, cache servers, search engines, etc.)
+5) Te voilà connecté. Maintenant tu peux fermer la fenêtre et réouvrir l'app, inch' le Dieu du cookie tu seras encore logged in khoya.
 
-* Deployment instructions
 
-* ...
+## Le serveur Heroku t'abandonnes ?
+
+Effectivement ça peut arriver, donc toujours avoir son petit local host de secour, et puis :
+
+1) Cloner le repo ```git clone https://github.com/Dim97122/secret_dim_biche.git```
+2) Se mettre dans le dossier cloné puis ```bundle install --without production``` 
+3) Créer la base de donnée avec la commande ```rails db:migrate```
+4) Lancer un petit ```rails db:seed``` des familles
+5) Puis un ```rails server``` pour finir en beauté.
+6) Azy fais péter le localhost:3000 sur ton navigateur web. 
+
+***
