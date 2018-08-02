@@ -4,7 +4,13 @@ class UsersController < ApplicationController
   end
 
   def create
-
+    @user = User.new(user-params)
+    if @user.save
+      log_in  @user
+      redirect_to user
+    else
+      render  'new'
+    end
   end
 
   def new
@@ -16,6 +22,6 @@ class UsersController < ApplicationController
   end
 
   def show
-    
+
   end
 end
