@@ -18,7 +18,7 @@ marc@gmail.com
 matthieu@gmail.com
 ``` 
 
-4) Mets le mot de passe suivant 
+4) Mets le mot de passe suivant : 
 
 ```
 poulet 
