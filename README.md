@@ -1,11 +1,11 @@
-# > L'appli "World's Secret Biche"
+# > L'appli "World Secret Biche"
 
 Wesh, la moitié des BoyzIICode (@Dimitri Kiavu & @Pierre Tâm-Anh) est de retour, pour vous partager beaucoup d'amour. 
 
 
 ## Les Instructions en 2-2
 
-1) Clique par ici khey >> https://jemepresentebiche.herokuapp.com/
+1) Clique par ici khey >> http://world-secret-biche.herokuapp.com/
 2) Clique sur sur l'onglet "Log in" en haut à droite. 
 3) Dans la case email, tu peux mettre au choix l'une de ces adresses emails suivantes :
 
