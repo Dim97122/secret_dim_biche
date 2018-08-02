@@ -7,7 +7,7 @@ Wesh, la moitié des BoyzIICode (@Dimitri Kiavu & @Pierre Tâm-Anh) est de retou
 
 1) Clique par ici khey >> https://jemepresentebiche.herokuapp.com/
 2) Clique sur sur l'onglet "Log in" en haut à droite. 
-3) Dans la case email, tu peux mettre au choix l'une de ces adresses emails suivants
+3) Dans la case email, tu peux mettre au choix l'une de ces adresses emails suivantes :
 
 
 ```
